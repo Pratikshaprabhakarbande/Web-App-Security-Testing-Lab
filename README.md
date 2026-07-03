@@ -3,19 +3,20 @@
 ## 📌 Internship Overview
 This repository serves as a technical portfolio for my **Virtual Cybersecurity Internship at Future Interns**. It demonstrates my ability to tackle real-world security challenges across VAPT, SOC log analysis, and secure development.
 
-
+---
 
 ## 🎯 Problem Statement & Solutions
 
 | Challenge (Problem Statement) | My Solution |
 | :--- | :--- |
-| **Vulnerability Assessment:** Identifying weaknesses in web applications. | Conducted automated scanning using **OWASP ZAP** to detect and report vulnerabilities. |
-| **Incident Response:** Analyzing complex system logs for threats. | Developed systematic log analysis techniques to detect anomalies and generate **Incident Response Reports**. |
-| **Secure Development:** Building apps that are resilient to attacks. | Implemented functional web applications using **Python & HTML** with secure data handling. |
+| **Vulnerability Assessment** | Conducted automated scanning using **OWASP ZAP** to detect vulnerabilities. |
+| **Incident Response** | Developed systematic log analysis techniques to generate **Incident Response Reports**. |
+| **Secure Development** | Implemented functional web applications using **Python & HTML** with secure data handling. |
 
-
+---
 
 ## 🏗️ Internship Workflow
+
 ```mermaid
 graph TD
     A[Start: Internship Task] --> B{Task Category}
@@ -32,7 +33,6 @@ graph TD
 
 📈 Technical Performance Analysis
 This data represents the approximate distribution of my effort and technical focus during the program.
-
 pie title Internship Skill Distribution
     "Vulnerability Assessment (VAPT)" : 40
     "Incident Response & SOC" : 35
@@ -47,3 +47,5 @@ Environment: Virtualized Labs, Cloud-based testing environments.
 🎓 Conclusion
 Through this internship, I successfully transitioned from theoretical security concepts to practical application. By solving the challenges of vulnerability detection, threat identification, and secure coding, I have demonstrated the technical aptitude required to secure modern digital infrastructures.
 Internship completed at Future Interns. Secured & Analyzed by Pratiksha Bande.
+
+
