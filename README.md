@@ -29,7 +29,7 @@ graph TD
     F --> I[Final Documentation]
     G --> I
     H --> I
-    I --> J[Internship Completion],
+    I --> J[Internship Completion]
 ```
 
 📈 Technical Performance Analysis
